@@ -1,0 +1,30 @@
+# Session – 2026-03-05
+
+## Topics covered
+- Windows /Analytic functions: OVER(), PARTITION BY
+
+-Rows between/Current row
+
+
+
+## What I understood
+- OVER() asigns the aggregation to all rows of the table
+- Partition by is like a group by but for the over()
+
+-The main difference is that ORDER BY orders the final result set of a query, while OVER(ORDER BY...) orders the data within a specific window (group of rows) for analytical or window functions (such as ROW_NUMBER, SUM, RANK) without ordering the entire final result.
+
+-Rows between
+
+-UNBOUNDED PRECEDING everything on top
+
+## What is still confusing
+- DENSE_RANK()
+
+## Questions
+- 
+
+## Related concepts
+- [Concept name](../concepts/concept-name.md)
+
+## Resources used
+- See `resources/`
