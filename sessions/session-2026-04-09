@@ -1,0 +1,21 @@
+# Session – 2026-04-09
+
+## Topics covered
+- Vector search:  the process of finding all vectors in a dataset that are similar to a specific query vector.
+
+## What I understood
+- Converts input into a vector of numbers to look for semantic relations
+- The closer to 1: more different
+- Closer to 0: less different
+
+## What is still confusing
+- 
+
+## Questions
+- 
+
+## Related concepts
+- [Concept name](../concepts/concept-name.md)
+
+## Resources used
+- See `resources/`
